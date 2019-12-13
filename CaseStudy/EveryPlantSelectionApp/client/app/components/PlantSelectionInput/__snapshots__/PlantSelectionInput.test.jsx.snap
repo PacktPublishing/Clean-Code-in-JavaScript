@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PlantSelectionInput Should render deterministically to its snapshot 1`] = `
+<div
+  className="PlantSelectionInput"
+>
+  <input
+    aria-autocomplete="true"
+    aria-expanded="false"
+    autoComplete="off"
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    onKeyUp={[Function]}
+    role="combobox"
+    spellCheck="false"
+  />
+</div>
+`;
+
+exports[`PlantSelectionInput With configured isInitiallyOpen & value properties Should render deterministically to its snapshot 1`] = `
+<div
+  className="PlantSelectionInput"
+>
+  <input
+    aria-autocomplete="true"
+    aria-expanded="false"
+    autoComplete="off"
+    defaultValue="Example..."
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    onKeyUp={[Function]}
+    role="combobox"
+    spellCheck="false"
+  />
+</div>
+`;

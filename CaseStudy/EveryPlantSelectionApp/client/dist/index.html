@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Plant Selection Application</title>
+
+  <style>
+    body {
+      font: 1em helvetica, sans-serif;
+    }
+    h1 {
+      text-align: center;
+    }
+    #root {
+      width: 400px;
+      margin: 2em auto;
+    }
+    .PlantSelectionInput {
+      width: 100%;
+      display: flex;
+      position: relative;
+    }
+    .PlantSelectionInput input {
+      background: #fff;
+      font-size: 1em;
+      flex: 1 1;
+      padding: .5em;
+      outline: none;
+      border: 3px solid #DDD;
+    }
+    .PlantSelectionInput input:focus {
+      border: 3px solid #3aa2d5;
+      border-top-left-radius: 2px;
+      border-top-right-radius: 2px;
+    }
+    .PlantSelectionInput ol {
+      z-index: 9;
+      background: #fff;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      width: 100%;
+      box-sizing: border-box;
+      padding: 0 3px;
+      border-bottom: 3px solid #3aa2d5;
+      border-bottom-left-radius: 2px;
+      border-bottom-right-radius: 2px;
+      margin: 0;
+      overflow-y: scroll;
+      max-height: 200px;
+      background: #3aa2d5;
+      box-shadow: 0 0 5px rgba(0,0,0,0.4);
+    }
+    .PlantSelectionInput .PlantSelectionInputSuggestion {
+      overflow: hidden;
+      background: white;
+      list-style: none;
+      margin-bottom: 2px;
+      cursor: pointer;
+      padding: .5em;
+      line-height: 1.4em;
+    }
+    .PlantSelectionInput .PlantSelectionInputSuggestion_genus_species {
+      padding: calc(.3em + 1px);
+      display: inline-block;
+    }
+    .PlantSelectionInput .PlantSelectionInputSuggestion_family {
+      float: right;
+      background: #D5E8D5;
+      border: 1px solid #ABCD9F;
+      padding: .3em;
+      color: #000;
+    }
+    .PlantSelectionInput .PlantSelectionInput_notice {
+      color: #FFF;
+      padding: .4em;
+    }
+    .PlantSelectionInput .PlantSelectionInputSuggestion.isSelected {
+      background: #7bcaf1;
+      color: white;
+    }
+    .PlantSelectionInput .PlantSelectionInputSuggestion:last-child {
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+
+  <h1><em>EveryPlant</em> Selection App</h1>
+
+  <div id="root"></div>
+
+  <script src="./main.js"></script>
+
+</body>
+</html>

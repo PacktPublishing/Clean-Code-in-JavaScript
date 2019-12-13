@@ -1,0 +1,37 @@
+{
+  "name": "PlantSelectionClient",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/index.jsx",
+  "type": "module",
+  "scripts": {
+    "test": "npx jest",
+    "start": "webpack-dev-server --open --mode development"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/preset-env": "^7.6.3",
+    "babel-loader": "^8.0.6",
+    "babel-preset-react": "^6.24.1",
+    "debounce-promise": "^3.1.2",
+    "enzyme": "^3.10.0",
+    "node-fetch": "^2.6.0",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
+    "to-string-loader": "^1.1.5"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.6.4",
+    "@babel/core": "^7.6.4",
+    "@babel/preset-react": "^7.6.3",
+    "babel-cli": "^6.26.0",
+    "babel-jest": "^24.9.0",
+    "enzyme-adapter-react-15": "^1.4.1",
+    "jest": "^24.9.0",
+    "react-test-renderer": "^16.11.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9",
+    "webpack-dev-server": "^3.8.2"
+  }
+}
