@@ -36,7 +36,7 @@ function validatePostalCode(code) {
 
 Clean coding is an important skill in the portfolio of any developer willing to write reliable and intuitive code. This book presents principles, patterns, anti-patterns, and practices supported by use cases and directions for writing clean JavaScript code. It helps you refactor your legacy codebase in JavaScript and modernize your web apps.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-7).
+With the following software and hardware list you can run all code files present in the book (Code is for chapter 19 : CaseStudy).
 
 ### Software and Hardware List
 
