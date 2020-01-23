@@ -51,7 +51,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 
 ### Related products
-* Web Development with Angular and Bootstrap - Third Edition [[Packt]](https://www.packtpub.com/in/business-other/building-forms-with-vue-js?utm_source=github&utm_medium=repository&utm_campaign=9781839213335) [[Amazon]](https://www.amazon.com/dp/B07YY7MGDD)
+* Building Forms with Vue.js [[Packt]](https://www.packtpub.com/in/business-other/building-forms-with-vue-js?utm_source=github&utm_medium=repository&utm_campaign=9781839213335) [[Amazon]](https://www.amazon.com/dp/B07YY7MGDD)
 
 * Web Development with Angular and Bootstrap - Third Edition [[Packt]](https://www.packtpub.com/in/web-development/web-development-angular-and-bootstrap-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788838108) [[Amazon]](https://www.amazon.com/dp/B07KJJ2ZCF)
 
