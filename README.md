@@ -4,7 +4,7 @@
 
 This is the code repository for [Clean Code in JavaScript](https://www.packtpub.com/in/web-development/clean-code-in-javascript?utm_source=github&utm_medium=repository&utm_campaign=9781789957648), published by Packt.
 
-**	Develop reliable, maintainable, and robust JavaScript**
+**Develop reliable, maintainable, and robust JavaScript**
 
 ## What is this book about?
 Building robust apps starts with creating clean code. In this book, you’ll explore techniques for doing this by learning everything from the basics of JavaScript through to the practices of clean code. You’ll write functional, intuitive, and maintainable code while also understanding how your code affects the end user and the wider community.
