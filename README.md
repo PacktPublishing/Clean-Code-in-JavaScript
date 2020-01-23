@@ -10,7 +10,7 @@ This is the code repository for [Clean Code in JavaScript](https://www.packtpub.
 Building robust apps starts with creating clean code. In this book, you’ll explore techniques for doing this by learning everything from the basics of JavaScript through to the practices of clean code. You’ll write functional, intuitive, and maintainable code while also understanding how your code affects the end user and the wider community.
 
 This book covers the following exciting features:
-*Understand the true purpose of code and the problems it solves for your end-users and colleagues
+* Understand the true purpose of code and the problems it solves for your end-users and colleagues
 * Discover the tenets and enemies of clean code considering the effects of cultural and syntactic conventions
 * Use modern JavaScript syntax and design patterns to craft intuitive abstractions
 * Maintain code quality within your team via wise adoption of tooling and advocating best practices
