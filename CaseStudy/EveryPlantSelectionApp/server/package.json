@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "csvtojson": "^2.0.10",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "trie-search": "^1.2.11"
   },
   "devDependencies": {
